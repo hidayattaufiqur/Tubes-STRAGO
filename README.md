@@ -1,4 +1,5 @@
 # Tugas Besar Strategi Algoritma
-#### Kelompok 17
-- Hidayat Taufiqur Rahmah Achmad / 1301204300
-- Addin Amanatullah Suparjo / 1301204286
+## This repo contains algorithm strategy final project.
+## Kelompok 17
+1. Hidayat Taufiqur Rahmah Achmad / 1301204300
+2. Addin Amanatullah Suparjo / 1301204286
